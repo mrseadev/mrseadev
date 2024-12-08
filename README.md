@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/mrseadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrseadev" height="30" width="40" /></a>
 <a href="https://fb.com/vanbien.mrseadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vanbien.mrseadev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mrseadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mrseadev" height="30" width="40" /></a>
+<a href="[[https://www.youtube.com/c/mrseadev](https://youtube.com/@MrSeadev?sub_confirmation=1)](https://youtube.com/@MrSeadev?sub_confirmation=1)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mrseadev" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mrseadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mrseadev" height="30" width="40" /></a>
 </p>
 
